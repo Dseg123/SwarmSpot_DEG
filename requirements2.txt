@@ -1,0 +1,4 @@
+torch==2.0.1
+torchvision==0.15.2
+timm==0.6.7
+open3d==0.18.0
